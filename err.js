@@ -1,1 +1,1 @@
-var asd = sdsadf
+console.log('hii',document.cookie);
